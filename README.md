@@ -22,6 +22,16 @@ git clone https://github.com/es6rocks/harmonic.git
 cd harmonic
 ./install.sh
 ```
+
+## Installing on Mac
+```shell
+git clone https://github.com/es6rocks/harmonic.git
+cd harmonic
+./install.sh
+npm install
+sudo npm link
+```
+
 ## installing manually
 1 - Clone the harmonic repository
 ```shell
